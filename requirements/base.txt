@@ -1,0 +1,21 @@
+# Bleeding edge Django
+django==1.7.5
+
+# Configuration
+#django-environ==0.4.0
+
+# Mysql
+mysqlclient==1.3.6
+
+# Models
+django-model-utils==2.6
+
+# Images
+Pillow==3.4.2
+
+# Django REST
+djangorestframework
+# Markdown support for the browsable API.
+markdown
+# Filtering support
+django-filter
