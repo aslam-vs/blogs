@@ -38,3 +38,14 @@ $ python manage.py runserver
 
 
 
+API Documentation
+-----------------
+Use any of steps
+
+1. I am sharing postman documenter link here.
+	link - https://documenter.getpostman.com/view/1156927/blog/2MsYrJ
+
+2. I have attached postman collection in docs folder. we can use that also for API test
+
+
+
