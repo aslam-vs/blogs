@@ -1,4 +1,4 @@
-demo_blog
+Blogs
 =========
 
 This REST based API’s for managing the blogs. We can Create/ edit/ delete/ View  by using this APIs .
